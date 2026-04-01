@@ -1,0 +1,7 @@
+Project sync notes:
+
+- The team wants to launch the beta by May 15.
+- Priya will draft the customer email by next Tuesday.
+- Daniel will confirm the QA checklist before Friday.
+- There is some uncertainty about whether the mobile build is ready.
+- No final decision was made about adding a referral program.
