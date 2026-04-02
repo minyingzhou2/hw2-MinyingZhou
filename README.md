@@ -42,3 +42,7 @@ python3 app.py \
 
 - Structured sections printed to the terminal
 - A JSON file saved to `output/meeting_summary.json` by default
+
+## Walkthrough Video
+
+Video Link: https://youtu.be/-NHZQAKDu88

@@ -1,0 +1,19 @@
+{
+  "summary": "The team is targeting a beta launch by May 15. Priya will draft the customer email by next Tuesday, and Daniel will confirm the QA checklist before Friday. The mobile build readiness remains uncertain, and no final decision was made on adding a referral program.",
+  "action_items": [
+    {
+      "task": "Draft the customer email",
+      "owner": "Priya",
+      "deadline": "next Tuesday"
+    },
+    {
+      "task": "Confirm the QA checklist",
+      "owner": "Daniel",
+      "deadline": "before Friday"
+    }
+  ],
+  "risks_or_uncertainties": [
+    "Uncertainty about whether the mobile build is ready.",
+    "No final decision on adding a referral program."
+  ]
+}
